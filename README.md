@@ -1,13 +1,23 @@
+<p align="center">
+ <img src="_images-vscode-visual-studio-code/vscode-visual-studio-code-logo-1.png" alt="VSCode Visual Studio Code Logo" title="VSCode Visual Studio Code Logo" width="200" />
+</p>
+
+VSCode Visual Studio Code 
+=====================
+
 - VSCode Visual Studio Code for Faster Web Development
 - VSCode Visual Studio Code for Beginners
 - VSCode Visual Studio Code Basics
 - VSCode Visual Studio Code Essentials
 
-> **Description**:
+Description
+---------------------
 
 Let us learn the essentials of the VSCode Visual Studio Code. This course/tutorial will help to learn important features, tips and tricks widely used and pretty useful for day-to-day faster web development.
 
-> **Topics (separate with spaces)**:
+Topics (separate with spaces)
+---------------------
+
 Add topics to categorize your repository and make it more discoverable:
 
 - vscode
@@ -31,9 +41,65 @@ Add topics to categorize your repository and make it more discoverable:
 - vscode-tips-tricks
 - vscode-command-palette-navigation
 
-<p align="center">
- <img src="_images-vscode-visual-studio-code/vscode-visual-studio-code-logo-1.png" alt="VSCode Visual Studio Code Logo" title="VSCode Visual Studio Code Logo" width="200" />
-</p>
+Welcome
+---------------------
 
-VSCode Visual Studio Code 
-=====================
+Hi All, I'm **`Dinanath Jayaswal, Senior UI/Web Developer and Adobe Certified Expert Professional`**, I wanna welcome you to the `VSCode Visual Studio Code for Faster Web Development`.
+
+About the Course/Tutorial
+---------------------
+
+VSCode Visual Studio Code is one of the most powerful **IDE (Integrated Development Environment)** developed and maintained by `Microsoft Corporation`. It works extremely well with almost all programming languages like C# (C-Sharp), Java, Python, JavaScript and so on. VSCode Visual Studio Code is loaded with various rich features and functionalities.
+
+Let us learn the essentials of the VSCode Visual Studio Code. This course/tutorial will help to learn important features, tips and tricks widely used and pretty useful for day-to-day faster web development.
+
+This tutorial explains the fundamental/essential concepts to make the best use of the VSCode Visual Studio Code to work faster. Here will go through and learn some important capabilities of the VSCode Visual Studio Code.
+
+What will learn and cover
+---------------------
+
+Welcome to the new tutorial series on VSCode Visual Studio Code. 
+
+In this introductory VSCode Visual Studio Code module will have a look and learn:
+- What is Visual Studio Code?
+- Features of Visual Studio Code
+- Why do we need a Visual Studio Code?
+- How to install the Visual Studio Code?
+- Basic Operations in Visual Studio Code
+- Command-Line, Command Palette Navigation
+- File Encoding Support in Visual Studio Code
+- Shortcuts in Visual Studio Code
+- Customization in Visual Studio Code with Themes and Icon Themes
+
+Who is this for? Audience
+---------------------
+
+This Course/Tutorial is ideal for: 
+- Freshers
+- Intermediates
+- Beginner Programmers
+- Any Developer/Designer
+- Web Designers and Developers, Front-End/UI Designers and Developers
+
+Course/Tutorial achievement
+---------------------
+Course/Tutorial Goal
+---------------------
+
+After completing/attending/finishing this Course/Tutorial, participants should be able to: 
+- Understand What, Why and How to use VSCode Visual Studio Code
+- Install/Setup VSCode Visual Studio Code
+- Acquainted with various features of VSCode Visual Studio Code
+- Use VSCode Visual Studio Code from Command Line
+- Practice/Apply shortcuts of VSCode Visual Studio Code
+- Customize VSCode Visual Studio Code with Color and Icon Themes
+- Install and use various extensions available in Visual Studio Code, which makes programmers life easier
+
+Prerequisites for current course / What you need to know
+---------------------
+
+- HTML5
+- CSS3
+- JavaScript
+- Basics of any programming language
+- Basic web development knowledge is useful but not required
