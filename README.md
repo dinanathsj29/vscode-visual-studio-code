@@ -109,6 +109,7 @@ Topics included/covered
 
 1. [Introduction to VSCode Visual Studio Code](#1-introduction-to-vscode-visual-studio-code)
     - 1.1. [What is VSCode Visual Studio Code](#11-what-is-vscode-visual-studio-code)
+    - 1.2. [History of VSCode Visual Studio Code](#12-history-of-vscode-visual-studio-code)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -137,3 +138,15 @@ It Optimises your web development workflow using VSCode's most powerful features
     <figcaption>&nbsp;&nbsp;&nbsp; Image 1.1.2 - Stackoverflow Developer/Development Environment Tool Survey 2019 </figcaption>
   </figure>
 </p>
+
+1.2. History of VSCode Visual Studio Code
+---------------------
+1.2. Evolution of VSCode Visual Studio Code
+---------------------
+
+| Year                  | History       |
+| --------------------- | ------------- |
+| `April 29, 2015`      | Visual Studio Code was announced on `April 29, 2015`, by Microsoft at the 2015 Build conference |
+| `November 18, 2015` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | On `November 18, 2015`, Visual Studio Code was released under the MIT License and its source code posted to GitHub   |
+| `April 14, 2016`      | On `April 14, 2016`, Visual Studio Code graduated the public preview stage and was released to web |
+| | |
