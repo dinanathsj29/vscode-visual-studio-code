@@ -292,3 +292,20 @@ Let us have a look at some of the important features of VSCode Visual Studio Cod
     <figcaption>&nbsp;&nbsp;&nbsp; Image 3.1. - VScode Download-Install </figcaption>
   </figure>
 </p>
+
+3.3. Basic Operations in VSCode Visual Studio Code
+---------------------
+
+The Basic Operations in VSCode Visual Studio Code are:   
+1. Create a New Project
+2. Run the Project
+3. Set Breakpoints
+4. Execute an existing Project
+
+3.4. File Encoding Support in VSCode Visual Studio Code
+---------------------
+
+We can set the file encoding either globally or based on workspace by using `files.encoding` setting in `User Settings` or `Workspace Settings`.
+
+Some commonly used and popular encodings are: `UTF-8, UTF-16, RTF, Western Windows, Western ISO, CP, GB`
+
