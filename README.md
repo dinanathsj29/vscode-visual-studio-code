@@ -110,6 +110,7 @@ Topics included/covered
 1. [Introduction to VSCode Visual Studio Code](#1-introduction-to-vscode-visual-studio-code)
     - 1.1. [What is VSCode Visual Studio Code](#11-what-is-vscode-visual-studio-code)
     - 1.2. [History of VSCode Visual Studio Code](#12-history-of-vscode-visual-studio-code)
+    - 1.3. [Why do we need VSCode Visual Studio Code?](#13-why-do-we-need-vscode-visual-studio-code)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -147,6 +148,33 @@ It Optimises your web development workflow using VSCode's most powerful features
 | Year                  | History       |
 | --------------------- | ------------- |
 | `April 29, 2015`      | Visual Studio Code was announced on `April 29, 2015`, by Microsoft at the 2015 Build conference |
-| `November 18, 2015` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | On `November 18, 2015`, Visual Studio Code was released under the MIT License and its source code posted to GitHub   |
+| `November 18, 2015`   | On `November 18, 2015`, Visual Studio Code was released under the MIT License and its source code posted to GitHub   |
 | `April 14, 2016`      | On `April 14, 2016`, Visual Studio Code graduated the public preview stage and was released to web |
 | | |
+
+1.3. Why do we need VSCode Visual Studio Code
+---------------------
+
+Here are the main reasons to use Visual Studio:
+- Light Weight
+- Fast
+- Lightning-fast source code editor
+- Open-Source (Free)
+- Cross-Platform (Install and Use on any OS Operating System)
+- Simplicity (simple to use)
+- Powerful developer tooling/Tools
+- Multi-Cursor
+- IntelliSense and/or code completion
+- Debugging
+- Extensible
+
+VSCode Visual Studio Code helps us to be instantly productive with:
+- Syntax highlighting 
+- Bracket-matching 
+- Auto-indentation 
+- Box-selection 
+- Snippets
+- Intuitive keyboard shortcuts 
+- Easy customization and community-contributed keyboard shortcut mappings and many more
+
+
