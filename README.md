@@ -112,6 +112,11 @@ Topics included/covered
     - 1.2. [History of VSCode Visual Studio Code](#12-history-of-vscode-visual-studio-code)
     - 1.3. [Why do we need VSCode Visual Studio Code?](#13-why-do-we-need-vscode-visual-studio-code)
 2. [Features of VSCode Visual Studio Code](#2-features-of-vscode-visual-studio-code)
+    - 2.1. [Code Editor](#21-code-editor)
+    - 2.2. [Debugger](#22-debugger)
+    - 2.3. [Designer (Visual Studio)](#23-designer-visual-studio)
+    - 2.4. [Other Tools (Visual Studio)](#24-other-tools-visual-studio))
+    - 2.5. [Customizable and Extensibility](#25-customizable-and-extensibility)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
