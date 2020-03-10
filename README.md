@@ -103,3 +103,37 @@ Prerequisites for current course / What you need to know
 - JavaScript
 - Basics of any programming language
 - Basic web development knowledge is useful but not required
+
+Topics included/covered
+=====================
+
+1. [Introduction to VSCode Visual Studio Code](#1-introduction-to-vscode-visual-studio-code)
+    - 1.1. [What is VSCode Visual Studio Code](#11-what-is-vscode-visual-studio-code)
+
+1 Introduction to VSCode Visual Studio Code
+=====================
+
+1.1. What is VSCode Visual Studio Code
+---------------------
+
+Visual Studio is an Advanced `Integrated Development Enterprise` exclusively developed by `Microsoft Corporation` in the year 2000. It is actively used to develop Computer Programs, Websites, Web-Desktop Applications, Mobile Applications, Games and much more.
+
+VSCode Visual Studio Code is an awesome, open-source, lightweight but powerful source code editor that runs and is available cross-platform for Desktop for Windows, macOS, and Linux. It `supports around 50+ programming languages` to code and compile - Visual Basic, C, C++, C# (C-Sharp), Java, JavaScript have named a few important and popular languages supported well.
+
+It Optimises your web development workflow using VSCode's most powerful features and extensions. As per the `Stackoverflow Developer survey 2018/2019`, VSCode Visual Studio Code is the most popular Developer/Development Environment Tool across the globe.
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/1.1.1-stackoverflow-survey-2018.png" alt="Stackoverflow Developer/Development Environment Tool Survey 2018" title="Stackoverflow Developer/Development Environment Tool Survey 2018" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 1.1.1 - Stackoverflow Developer/Development Environment Tool Survey 2018 </figcaption>
+  </figure>
+</p>
+
+<hr/>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/1.1.2-stackoverflow-survey-2019.png" alt="Stackoverflow Developer/Development Environment Tool Survey 2019" title="Stackoverflow Developer/Development Environment Tool Survey 2019" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 1.1.2 - Stackoverflow Developer/Development Environment Tool Survey 2019 </figcaption>
+  </figure>
+</p>
