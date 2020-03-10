@@ -111,6 +111,7 @@ Topics included/covered
     - 1.1. [What is VSCode Visual Studio Code](#11-what-is-vscode-visual-studio-code)
     - 1.2. [History of VSCode Visual Studio Code](#12-history-of-vscode-visual-studio-code)
     - 1.3. [Why do we need VSCode Visual Studio Code?](#13-why-do-we-need-vscode-visual-studio-code)
+2. [Features of VSCode Visual Studio Code](#2-features-of-vscode-visual-studio-code)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -177,4 +178,86 @@ VSCode Visual Studio Code helps us to be instantly productive with:
 - Intuitive keyboard shortcuts 
 - Easy customization and community-contributed keyboard shortcut mappings and many more
 
+2 Features of VSCode Visual Studio Code
+=====================
 
+Let us have a look at some of the important features of VSCode Visual Studio Code: 
+
+1. Code Editor
+2. Debugger
+3. Designer (Visual Studio)
+4. Other Tools (Visual Studio)
+5. Customizable and Extensibility
+
+2.1. Code Editor
+---------------------
+
+- VSCode Visual Studio Code have best world-class code editor which supports multiple languages and functionalities (latest versions support for hundreds of languages)
+- It enables bookmarks in code to incorporate with navigation
+- With normal code typing, it also provides incremental Search, multiple item clipboard and task list features
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/2.1.1-vscode-language-support.png" alt="VScode language support" title="VScode language support" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 2.1.1 - VScode language support </figcaption>
+  </figure>
+</p>
+
+2.2. Debugger
+---------------------
+
+- The VSCode Visual Studio Code debugger works as Machine Level Debugger as well as Source Level Debugger
+- VSCode Visual Studio Code includes an interactive debugger, so you can step through source code, inspect variables, view call stacks, and execute commands in the console
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/2.2.1-vscode-debug.png" alt="VScode Debug/Debugger" title="VScode Debug/Debugger" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 2.2.1 - VScode Debug/Debugger </figcaption>
+  </figure>
+</p>
+
+2.3. Designer (Visual Studio)
+---------------------
+
+- **WPF Designer** (Windows Presentation Foundation)
+- **WFD Designer** (Windows Form Designer)
+- **Web Designer** - Web Page Design with Drag and Drop facility
+- **Class Designer** - Class and Class Member with UML modeling
+- **Mapping/Data Designer** - Database, Data Table Schema
+
+2.4. Other Tools (Visual Studio)
+---------------------
+
+- **Server Explorer**
+- **Object Browser**
+- **Data Explorer**
+- **Solution Explorer**
+
+2.5. Customizable and Extensibility
+---------------------
+
+- Customize every feature to your liking and install any number of third-party extensions
+- VSCode Visual Studio Code includes a public extensibility model that lets developers build/create and use own extensions, and richly customize their edit-build-debug experience
+- Check Themes:
+  - `View Menu` -> Command Palette -> >Theme
+  <br/>or<br/>
+  - Use the shortcut key: `COMMAND + SHIFT + P` -> `>Theme`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/2.5.1-vscode-customize-theme.png" alt="VScode Customization Theme" title="VScode Customization Theme" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 2.5.1 - VScode Customization Theme </figcaption>
+  </figure>
+</p>
+
+- Check Extensions:
+  - Click on Extensions Icon available at left hand side Activity Bar
+  <br/>or<br/>
+  - Use the shortcut key: `COMMAND + SHIFT + X`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/2.5.2-vscode-extensions.png" alt="VScode Extensions" title="VScode Extensions" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 2.5.2 - VScode Extensions </figcaption>
+  </figure>
+</p>
