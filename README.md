@@ -277,3 +277,18 @@ Let us have a look at some of the important features of VSCode Visual Studio Cod
   </figure>
 </p>
 
+3 Getting started with VSCode Visual Studio Code
+=====================
+
+3.1. How to install VSCode Visual Studio Code?
+---------------------
+
+- Download the appropriate/respective VSCode Visual Studio Code binary installer as per your OS Operating System from website URL: https://code.visualstudio.com/download
+- Double click on the executable file and simply follow the instruction to Setup/Install
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.1-vscode-download-install.png" alt="VScode Download-Install" title="VScode Download-Install" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.1. - VScode Download-Install </figcaption>
+  </figure>
+</p>
