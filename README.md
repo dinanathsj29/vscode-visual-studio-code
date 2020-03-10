@@ -117,7 +117,17 @@ Topics included/covered
     - 2.3. [Designer (Visual Studio)](#23-designer-visual-studio)
     - 2.4. [Other Tools (Visual Studio)](#24-other-tools-visual-studio))
     - 2.5. [Customizable and Extensibility](#25-customizable-and-extensibility)
-
+3. [Getting started with VSCode Visual Studio Code](#3-getting-started-with-vscode-visual-studio-code)
+    - 3.1. [How to install VSCode Visual Studio Code?](#31-how-to-install-vscode-visual-studio-code)
+    - 3.2. [User Interface-Interface Overview](#32-user-interface-interface-overview)
+      - 3.2.1. [Activity Bar](#321-activity-bar)
+      - 3.2.2. [Side Bar](#322-side-bar)
+      - 3.2.3. [Editor Groups](#323-editor-groups)
+      - 3.2.4. [Various Panels](#324-various-panels)
+      - 3.2.5. [Status Bar](#325-status-bar)
+    - 3.3. [Basic Operations in VSCode Visual Studio Code](#33-basic-operations-in-vscode-visual-studio-code)
+    - 3.4. [File Encoding Support in VSCode Visual Studio Code](#34-file-encoding-support-in-vscode-visual-studio-code)
+    
 1 Introduction to VSCode Visual Studio Code
 =====================
 
@@ -266,3 +276,4 @@ Let us have a look at some of the important features of VSCode Visual Studio Cod
     <figcaption>&nbsp;&nbsp;&nbsp; Image 2.5.2 - VScode Extensions </figcaption>
   </figure>
 </p>
+
