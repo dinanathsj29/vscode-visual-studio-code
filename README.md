@@ -128,6 +128,7 @@ Topics included/covered
     - 3.3. [Basic Operations in VSCode Visual Studio Code](#33-basic-operations-in-vscode-visual-studio-code)
     - 3.4. [File Encoding Support in VSCode Visual Studio Code](#34-file-encoding-support-in-vscode-visual-studio-code)
 4. [Accessing Visual Code from Command Line](#4-accessing-visual-code-from-command-line) | [Additional Command Line Arguments](#4-additional-command-line-arguments)
+5. [Command Palette and Navigation](#5-command-palette-and-navigation)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -516,3 +517,46 @@ As and when we install VSCode Visual Studio Code, it is added to system `environ
     <figcaption>&nbsp;&nbsp;&nbsp; Image 4.2 (3.2a.) - VScode Welcome Help Screen </figcaption>
   </figure>
 </p>
+
+5 Command Palette and Navigation
+=====================
+
+From Command Palette `(COMMAND + SHIFT + P) or View Menu -> Command palette` we can access all the functionalities of VSCode Visual Studio Code including the keyboard shortcuts for widely performed tasks and most common operations. 
+
+One can execute editor command, Open required files, Search for required utilities-symbols, etc. all using the one and same interactive window, the Command Palette.
+
+> **`COMMAND + P`**: 
+  - The shortcut key **`COMMAND + P`** is used to open desired file or navigate to any file from workspace 
+  - **Open Single File**: 
+    - (Just type partial name -> Down Arrow -> choose file to work)
+  - **Open multiple files at a time**: 
+    - (Just type partial name -> use Right Arrow, it will keep opening files for you)
+
+> **`(COMMAND + P) + (COMMAND + P)`**: 
+Toggle between two files we want to work (Jumps or Toggle between last/previous and current file)
+
+> **`CTRL + SHIFT + TAB`**: 
+Toggle/Switch between currently opened files
+
+> **`(COMMAND + P) @ / or (COMMAND + SHIFT + O)`**: 
+The `@ symbol` inside Nativation Panel is used to jump to specific/particular method-function/.class or #Id/HTML element-tag/Heading-Header Section in .JS/.CSS.HTML/.MD file respectively
+
+> **`(COMMAND + P) @: / or (COMMAND + SHIFT + O:)`**: 
+The `: symbol` with @ is used to group the sysmbols by category/type i.e. `(COMMAND + P) @:` in .JS file will segregate the class, constructor and function which provides lots of ease to navigate search and use required method
+
+> **`(COMMAND + P) # / or (COMMAND + T)`**: 
+The `# symbol` inside Nativation Panel is used to jump to or open .JS from workspace file which contains the specific/particular method-function
+
+> **`F12 / or FN + F12 / or COMMAND + CLICK`**:
+Go to Definition. **`F12 / or FN + F12 / or COMMAND + CLICK`** is used to jump to/Go to method-function Definition from where its originated
+
+> **`(COMMAND + P) : / or CTRL + G`**: 
+Go to Specific line. VSCode Visual Studio Code denotes the line number range we can go/jump/visit to current open file
+
+> **`(COMMAND + P) ?`**: 
+Show help of various commands available in Nativation Panel
+
+> **`(COMMAND + P) > / or (COMMAND + SHIFT + P)`**: 
+- Shows various commands available in Nativation Panel Editor with shortcut keys available if any
+- `(COMMAND + P) >`: is the central part ie. heart of the Nativation Panel Editor with almost every task and function available
+- `(COMMAND + P) >Themes` or `(COMMAND + K + T)`: to switch between different themes
