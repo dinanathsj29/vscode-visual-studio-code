@@ -130,6 +130,7 @@ Topics included/covered
 4. [Accessing Visual Code from Command Line](#4-accessing-visual-code-from-command-line) | [Additional Command Line Arguments](#4-additional-command-line-arguments)
 5. [Command Palette and Navigation](#5-command-palette-and-navigation)
 6. [Editing Tips and Tricks](#6-editing-tips-and-Tricks)
+7. [Intellisense and Code Autocomplete](#7-intellisense-and-code-autocomplete)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -609,4 +610,48 @@ Format code
 ---------------------
 
 - `COMMAND + K + F`: Format the code as per programming language technical specification (extension - Prettier)
+
+7 Intellisense and Code Autocomplete
+=====================
+ 
+As and when we type something if VSCode Visual Studio Code knows the word/phrase/keyword it offers word completion and Intellisense (shortcut key: `CTRL + SPACEBAR key`)
+
+- While working with HTML and CSS `Emmet` plugin is very helpful, which helps to type markup and style properties quickly 
+
+Working with HTML file
+--------------------- 
+- Type `Emmet` related statements as given below and press `TAB`
+
+```html
+  div.container>h1+p
+``` 
+
+  will expand to:
+
+```html
+<div class="container">
+  <h1></h1>
+  <p></p>
+</div>
+```
+
+Working with CSS/SCSS file
+--------------------- 
+- Just press `CTRL + SPACEBAR key` to get help/IntelliSense of the property or
+- Start the first letter of property and choose from the list
+- `Emmet` shortcuts or properties will help to write and complete CSS things faster and makes life easier
+- Type `Emmet` related CSS properties like `bgc` and press `TAB` it will expand to `background-color` like that one can simply use any CSS properties with Emmet
+
+Working with JSON file 
+---------------------
+- When we hover on JSON key-value, it shows details about the same
+- `CTRL + SPACEBAR key` helps to get the name of popular key or property or keywords related to JSON
+
+Working with MD (Markdown) file 
+---------------------
+- `COMMAND + SHIFT + V` is used to preview the output of .MD (Markdown) file 
+
+Working with JS file
+---------------------
+- Hover on any class member or property or variable, it shows its type with the accepted value
 
