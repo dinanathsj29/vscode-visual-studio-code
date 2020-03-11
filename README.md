@@ -127,6 +127,7 @@ Topics included/covered
       - 3.2.5. [Status Bar](#325-status-bar)
     - 3.3. [Basic Operations in VSCode Visual Studio Code](#33-basic-operations-in-vscode-visual-studio-code)
     - 3.4. [File Encoding Support in VSCode Visual Studio Code](#34-file-encoding-support-in-vscode-visual-studio-code)
+4. [Accessing Visual Code from Command Line](#4-accessing-visual-code-from-command-line) | [Additional Command Line Arguments](#4-additional-command-line-arguments)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -479,4 +480,40 @@ The Basic Operations in VSCode Visual Studio Code are:
 We can set the file encoding either globally or based on workspace by using `files.encoding` setting in `User Settings` or `Workspace Settings`.
 
 Some commonly used and popular encodings are: `UTF-8, UTF-16, RTF, Western Windows, Western ISO, CP, GB`
+
+4 Accessing Visual Code from Command Line
+=====================
+4 Additional Command Line Arguments
+=====================
+
+As and when we install VSCode Visual Studio Code, it is added to system `environment variables path` and so we can launch/open VSCode from the command prompt (Command window or Terminal or DOS/Unix/Linux Command Prompt) by using command: `code` or `code -n` or `code .`
+
+| Command               | Use Description / Command Details       |
+| --------------------- | ------------- |
+| `code`                | Opens the VSCode instance from last session we used/left-off |
+| `code -n`             | Opens the fresh VSCode instance, without any project or file folder structure   |
+| `code .`              | Opens the VSCode instance from current/specific folder-directory |
+| `code --goto fileName:lineNum:columnNum`      | Open specific file with row/line number and cursor column location. Example: `code --goto details.js:10:20`  |
+| `code -r`: `--reuse-window`      | Reuse/Open the last ie. already used/opened window |
+| | |
+
+> command to get VSCode Visual Studio Code help: `code -help` or `code --help`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/4.1-vscode-commandline-help.png" alt="VScode Command Line Help" title="VScode Command Line Help" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 4.1 - VScode Command Line Help </figcaption>
+  </figure>
+</p>
+
+<hr/>
+
+> One can also get VSCode help from: `Help menu -> Choose Welcome or other required option`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2a-vscode-welcome-screen.png" alt="VScode Welcome Help Screen " title="VScode Welcome Help Screen" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 4.1 (3.2a.) - VScode Welcome Help Screen </figcaption>
+  </figure>
+</p>
 
