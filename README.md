@@ -134,6 +134,7 @@ Topics included/covered
 8. [Shortcuts in Visual Studio Code](#8-shortcuts-in-visual-studio-code) | 8. [Shortcut Keys in Visual Studio Code](#8-shortcut-keys-in-visual-studio-code) |  8. [Keyboard Shortcut in Visual Studio Code](#8-keyboard-shortcut-in-visual-studio-code)
 9. [Customization with Themes](#9-customization-with-themes)
 10. [Favorite and Popular Extensions](#10-favorite-and-popular-extensions)
+11. [VSCode Resources](#11-vscode-resources)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -714,4 +715,13 @@ Icon Themes
 - Angular v6 Snippets
   - To get Angular code snippets free
   
-  
+11 VSCode Resources
+=====================
+
+> **Reference**: https://code.visualstudio.com/docs
+
+> **Reference**: Visual Studio Code -> Welcome Screen
+
+> **Reference**: Visual Studio Code -> Help Menu
+
+
