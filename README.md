@@ -293,6 +293,51 @@ Let us have a look at some of the important features of VSCode Visual Studio Cod
   </figure>
 </p>
 
+3.2. User Interface-Interface Overview
+--------------------- 
+
+The VSCode Visual Studio Code default Interface is divided into 5 parts/region:
+1. [Activity Bar](#321-activity-bar)
+2. [Side Bar](#322-side-bar)
+3. [Editor Groups](#323-editor-groups)
+4. [Various Panels](#324-various-panels)
+5. [Status Bar](#325-status-bar)
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2a-vscode-welcome-screen.png" alt="VScode Welcome Screen" title="VScode Welcome Screen" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2a. - VScode Welcome Screen </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2b-vscode-user-interface-overview.png" alt="VScode User Interface Overview" title="VScode User Interface Overview" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2b. - VScode User Interface Overview </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2c-vscode-user-interface-indication.png" alt="VScode User Interface Overview Indication" title="VScode User Interface Overview Indication" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2c. - VScode User Interface Overview Indication </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2d-vscode-user-interface-default-blank.png" alt="VScode User Interface Overview Default Blank Screen" title="VScode User Interface Overview Default Blank Screen" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2d. - VScode User Interface Overview Default Blank Screen </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2e-vscode-user-interface-project.png" alt="VScode User Interface Overview Project Screen" title="VScode User Interface Overview Project Screen" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2e. - VScode User Interface Overview Project Screen </figcaption>
+  </figure>
+</p>
+
 3.3. Basic Operations in VSCode Visual Studio Code
 ---------------------
 
