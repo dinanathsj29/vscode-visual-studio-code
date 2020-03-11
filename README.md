@@ -305,6 +305,8 @@ VS Code comes with a simple and intuitive layout that maximizes the space provid
 4. [Various Panels](#324-various-panels)
 5. [Status Bar](#325-status-bar)
 
+> **NOTE**: One can control the VSCode Visual Studio Code appearance from the `View Menu`
+
 <p>
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2a-vscode-welcome-screen.png" alt="VScode Welcome Screen" title="VScode Welcome Screen" width="1000" border="2" />
@@ -351,6 +353,7 @@ VS Code comes with a simple and intuitive layout that maximizes the space provid
 ---------------------
 
 - Located on the far top left-hand side
+- Access it from `View Menu -> Appearance -> Show Activity Bar`
 - Helps/Lets switch between different **views/activity and shows additional context-specific indicators** like `search files, files folder explorer, Git`, etc.(Clicking on different icons opens respective views as given below): 
   - Search (`COMMAND + SHIFT + F`)
   - Explore (`COMMAND + SHIFT + E`)
@@ -362,6 +365,102 @@ VS Code comes with a simple and intuitive layout that maximizes the space provid
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.1-vscode-activity-bar.png" alt="VScode User Interface Overview - Activity Bar" title="VScode User Interface Overview - Activity Bar" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.1 - VScode User Interface Overview - Activity Bar </figcaption>
+  </figure>
+</p>
+
+3.2.2. Side Bar
+---------------------
+  - Reside/Located at the left top side just after the Activity Bar
+  - Side Bar consists of various view and different small panels for the respective options chosen from Activity Bar
+  - It Contains different views like the Search options, Explorer, etc. to assist while working on your project
+  - Access it from `View Menu -> Appearance -> Show Side Bar`
+  <br/>or<br/>
+  - By clicking on the icons from Activity Bar (event by pressing the shortcut keys for Search (`COMMAND + SHIFT + F`), Explore (`COMMAND + SHIFT + E`) and so on...)
+  <br/>or<br/>
+  - Use the shortcut key to toggle Side Bar: `COMMAND + B`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.2.1-vscode-side-bar-search.png" alt="VScode User Interface Overview - Side Bar - Search" title="VScode User Interface Overview - Side Bar - Search" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.2.1 - VScode User Interface Overview - Side Bar - Search </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.2.2-vscode-side-bar-explorer.png" alt="VScode User Interface Overview - Side Bar - Explorer" title="VScode User Interface Overview - Side Bar - Explorer" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.2.2 - VScode User Interface Overview - Side Bar - Explorer </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.2.3-vscode-side-bar-source-control.png" alt="VScode User Interface Overview - Side Bar - Source Control" title="VScode User Interface Overview - Side Bar - Source Control" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.2.3 - VScode User Interface Overview - Side Bar - Source Control </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.2.4-vscode-side-bar-debug-run.png" alt="VScode User Interface Overview - Side Bar - Debug & Run" title="VScode User Interface Overview - Side Bar - Debug & Run" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.2.4 - VScode User Interface Overview - Side Bar - Debug & Run </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.2.5-vscode-side-bar-extensions.png" alt="VScode User Interface Overview - Side Bar - Extensions" title="VScode User Interface Overview - Side Bar - Extensions" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.2.5 - VScode User Interface Overview - Side Bar - Extensions </figcaption>
+  </figure>
+</p>
+
+3.2.3. Editor Groups
+---------------------
+  
+  - Reside at the center/middle of the screen (On the Right side just after the Side Bar)
+  - Its the main Editor Area where we do programing/coding or typing
+  - The main area to edit all the files/code/program, One can open editors side by side vertically and horizontally
+  - Access it from `View Menu -> Appearance -> Show Editor Area`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.3-vscode-editor-groups-editor-area.png" alt="VScode User Interface Overview - Editor Groups - Editor Area" title="VScode User Interface Overview - Editor Groups - Editor Area" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.3 - VScode User Interface Overview - Editor Groups - Editor Area </figcaption>
+  </figure>
+</p>
+
+3.2.4. Various Panels
+---------------------
+  
+  - Reside just below the Editor Groups
+  - Access is from Menu option: `View -> Output` or `View -> Debug Console` or `View -> Terminal` or `View -> Problems`
+  - One can simply pull it up by dragging from bottom of the screen at status bar
+  - Use the shortcut key to toggle Panels: `COMMAND + J`
+  - It displays different panels like:
+    - Problems (`COMMAND + SHIFT + M`)
+    - Output (`COMMAND + SHIFT + U`)
+    - Terminal (`CONTROL + ``) 
+    - Debug Console (`COMMAND + SHIFT + Y`)
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.4-vscode-various-panels.png" alt="VScode User Interface Overview - Various Panels" title="VScode User Interface Overview - Various Panels" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.4 - VScode User Interface Overview - Various Panels </figcaption>
+  </figure>
+</p>
+
+3.2.5. Status Bar
+---------------------
+  
+  - Reside at the bottom center/middle or bottom right of the screen
+  - Status Bar provides information about the Line Number, Space Indentation, Character Encoding, EOL sequence, File type-Language code, Provide feedback if any, Notifications, etc.
+  - Information about the opened project and the files currently working/editing
+  - Access it from `View Menu -> Appearance -> Show Status Bar`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.5-vscode-status-bar.png" alt="VScode User Interface Overview - Status Bar" title="VScode User Interface Overview - Status Bar" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.4 - VScode User Interface Overview - Status Bar </figcaption>
   </figure>
 </p>
 
