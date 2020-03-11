@@ -326,8 +326,15 @@ The VSCode Visual Studio Code default Interface is divided into 5 parts/region:
 
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2d-vscode-user-interface-default-blank.png" alt="VScode User Interface Overview Default Blank Screen" title="VScode User Interface Overview Default Blank Screen" width="1000" border="2" />
-    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2d. - VScode User Interface Overview Default Blank Screen </figcaption>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2d1-vscode-user-interface-default-blank.png" alt="VScode User Interface Overview Default Blank Screen" title="VScode User Interface Overview Default Blank Screen" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2d1. - VScode User Interface Overview Default Blank Screen </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2d2-vscode-user-interface-default-blank.png" alt="VScode User Interface Overview Default Blank Screen" title="VScode User Interface Overview Default Blank Screen" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2d2. - VScode User Interface Overview Default Blank Screen </figcaption>
   </figure>
 </p>
 
