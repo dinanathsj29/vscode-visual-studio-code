@@ -129,6 +129,7 @@ Topics included/covered
     - 3.4. [File Encoding Support in VSCode Visual Studio Code](#34-file-encoding-support-in-vscode-visual-studio-code)
 4. [Accessing Visual Code from Command Line](#4-accessing-visual-code-from-command-line) | [Additional Command Line Arguments](#4-additional-command-line-arguments)
 5. [Command Palette and Navigation](#5-command-palette-and-navigation)
+6. [Editing Tips and Tricks](#6-editing-tips-and-Tricks)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -560,3 +561,52 @@ Show help of various commands available in Nativation Panel
 - Shows various commands available in Nativation Panel Editor with shortcut keys available if any
 - `(COMMAND + P) >`: is the central part ie. heart of the Nativation Panel Editor with almost every task and function available
 - `(COMMAND + P) >Themes` or `(COMMAND + K + T)`: to switch between different themes
+
+6 Editing Tips and Tricks
+=====================
+
+Multi-Cursor
+---------------------
+
+Any time if you want to change/edit at multiple locations/places at one go the key `ALT + CLICK` can help you.
+
+`ALT + CLICK` can be used to place Multi-Cursor and do the necessary changes once at all the places...no need to implement the changes one after another.
+
+Word Selection
+---------------------
+
+If you want to select specific/particular word through-out the document `COMMAND + D` is the key for you.
+
+1. Place the cursor on the word you want to search or edit through-out the document/file, press `COMMAND + D` till the cursor reaches the end of the document/file. 
+2. Once the complete selection is done, change or edit the word - it will reflect through-out selection in one go
+
+Column Selection
+---------------------
+
+`ALT + SHIFT + CLICK` is used to make rectangular Column wise selection and make the necessary changes at one go
+
+Last Cursor position
+---------------------
+`COMMAND + U` - To go to last cursor position
+
+Last Edit position
+---------------------
+`(COMMAND + K) + (COMMAND + Q)  ` - To go to last edit position
+
+Copy and Paste
+---------------------
+
+- `COMMAND + C`: By default VSCode Visual Studio Code copy current whole/complete line (No need to select line, the copy criteria is current active line on which cursor is placed or blinking)
+- `ALT + SHIFT + UP ARROW`: Copy the current line and Paste just above
+- `ALT + SHIFT + DOWN ARROW`: Copy the current line and Paste just below
+
+Cut and Paste or Moving
+---------------------
+- `ALT + UP ARROW`: Moves the current line to above/up position
+- `ALT + DOWN ARROW`: Moves the current line to below/down position
+
+Format code
+---------------------
+
+- `COMMAND + K + F`: Format the code as per programming language technical specification (extension - Prettier)
+
