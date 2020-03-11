@@ -512,8 +512,7 @@ As and when we install VSCode Visual Studio Code, it is added to system `environ
 
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2a-vscode-welcome-screen.png" alt="VScode Welcome Help Screen " title="VScode Welcome Help Screen" width="1000" border="2" />
-    <figcaption>&nbsp;&nbsp;&nbsp; Image 4.1 (3.2a.) - VScode Welcome Help Screen </figcaption>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/4.2-vscode-welcome-help-screen.png" alt="VScode Welcome Help Screen " title="VScode Welcome Help Screen" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 4.2 (3.2a.) - VScode Welcome Help Screen </figcaption>
   </figure>
 </p>
-
