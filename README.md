@@ -127,7 +127,7 @@ Topics included/covered
       - 3.2.5. [Status Bar](#325-status-bar)
     - 3.3. [Basic Operations in VSCode Visual Studio Code](#33-basic-operations-in-vscode-visual-studio-code)
     - 3.4. [File Encoding Support in VSCode Visual Studio Code](#34-file-encoding-support-in-vscode-visual-studio-code)
-    
+
 1 Introduction to VSCode Visual Studio Code
 =====================
 
@@ -296,7 +296,9 @@ Let us have a look at some of the important features of VSCode Visual Studio Cod
 3.2. User Interface-Interface Overview
 --------------------- 
 
-The VSCode Visual Studio Code default Interface is divided into 5 parts/region:
+VSCode Visual Studio Code is a high-end visual text/code editor. VSCode adopts a common user interface and layout of an explorer on the left side - with files and folders to access, and an editor on the right side - shows the content of opened files.
+
+VS Code comes with a simple and intuitive layout that maximizes the space provided for the editor while leaving ample room to browse and access the full context of your folder or project. The VSCode Visual Studio Code default User Interface is divided into 5 areas/parts/region:
 1. [Activity Bar](#321-activity-bar)
 2. [Side Bar](#322-side-bar)
 3. [Editor Groups](#323-editor-groups)
