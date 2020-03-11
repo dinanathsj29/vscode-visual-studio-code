@@ -133,6 +133,7 @@ Topics included/covered
 7. [Intellisense and Code Autocomplete](#7-intellisense-and-code-autocomplete)
 8. [Shortcuts in Visual Studio Code](#8-shortcuts-in-visual-studio-code) | 8. [Shortcut Keys in Visual Studio Code](#8-shortcut-keys-in-visual-studio-code) |  8. [Keyboard Shortcut in Visual Studio Code](#8-keyboard-shortcut-in-visual-studio-code)
 9. [Customization with Themes](#9-customization-with-themes)
+10. [Favorite and Popular Extensions](#10-favorite-and-popular-extensions)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -694,3 +695,23 @@ Icon Themes
 > `Seti (Visual Studio Theme)` is default and looks awesome
 
 > Choose `Install Additional File Icon Theme` to install new customized icon theme named `Material Icon Theme`, it makes editor and icon more fancy and engaging
+
+10 Favorite and Popular Extensions
+=====================
+
+- Emmet 
+  - Emmet is a plugin for text editors that helps you write HTML and CSS faster and efficiently
+- Prettier
+  - Prettier is a solid/hardcore code formatter
+- ESLint
+  - ESLint is a powerful and popular linting tool, which helps you spot errors in your code and fix them as you write and which helps you follow common best-practices
+- Git / Gitlens
+  - Source Control
+- Numbered Bookmarks
+  - Mark lines and jumps to them
+- Angular 6 Snippets
+  - To get Angular code snippets free
+- Angular v6 Snippets
+  - To get Angular code snippets free
+  
+  
