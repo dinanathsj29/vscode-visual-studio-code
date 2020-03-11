@@ -131,6 +131,7 @@ Topics included/covered
 5. [Command Palette and Navigation](#5-command-palette-and-navigation)
 6. [Editing Tips and Tricks](#6-editing-tips-and-Tricks)
 7. [Intellisense and Code Autocomplete](#7-intellisense-and-code-autocomplete)
+8. [Shortcuts in Visual Studio Code](#8-shortcuts-in-visual-studio-code) | 8. [Shortcut Keys in Visual Studio Code](#8-shortcut-keys-in-visual-studio-code) |  8. [Keyboard Shortcut in Visual Studio Code](#8-keyboard-shortcut-in-visual-studio-code)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -655,3 +656,21 @@ Working with JS file
 ---------------------
 - Hover on any class member or property or variable, it shows its type with the accepted value
 
+8 Shortcuts in Visual Studio Code
+=====================
+8 Shortcut Keys in Visual Studio Code
+=====================
+8 Keyboard Shortcut in Visual Studio Code
+=====================
+
+Here are some of the important and widely used actions with shortcut key:
+- press `(COMMAND + K) + (COMMAND + S)` to get keyboard shortcut list
+- `COMMAND + SHIFT + P` -> shortcut -> Help: Keyboard Shortcut Reference
+  - Website URL: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/8.1-vscode-keyboard-shortcuts.png" alt="VSCode Keyboard Shortcuts" title="VSCode Keyboard Shortcuts" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 8.1 - VSCode Keyboard Shortcuts </figcaption>
+  </figure>
+</p>
