@@ -132,6 +132,7 @@ Topics included/covered
 6. [Editing Tips and Tricks](#6-editing-tips-and-Tricks)
 7. [Intellisense and Code Autocomplete](#7-intellisense-and-code-autocomplete)
 8. [Shortcuts in Visual Studio Code](#8-shortcuts-in-visual-studio-code) | 8. [Shortcut Keys in Visual Studio Code](#8-shortcut-keys-in-visual-studio-code) |  8. [Keyboard Shortcut in Visual Studio Code](#8-keyboard-shortcut-in-visual-studio-code)
+9. [Customization with Themes](#9-customization-with-themes)
 
 1 Introduction to VSCode Visual Studio Code
 =====================
@@ -674,3 +675,22 @@ Here are some of the important and widely used actions with shortcut key:
     <figcaption>&nbsp;&nbsp;&nbsp; Image 8.1 - VSCode Keyboard Shortcuts </figcaption>
   </figure>
 </p>
+
+9 Customization with Themes
+=====================
+
+Themes
+---------------------
+- `COMMAND + P >Theme` -> Color Theme
+- `COMMAND + SHIFT + P` -> `>Theme` -> Color Theme
+- `COMMAND + K + T` or  `(COMMAND + K) ((COMMAND + T)`-> Color Theme` 
+- **From Menu Bar**: `Code Menu -> Preferences -> Color Theme`
+
+Icon Themes
+---------------------
+- `COMMAND + P >Theme` -> File Icon Theme
+- `COMMAND + SHIFT + P >Theme`  -> File Icon Theme
+
+> `Seti (Visual Studio Theme)` is default and looks awesome
+
+> Choose `Install Additional File Icon Theme` to install new customized icon theme named `Material Icon Theme`, it makes editor and icon more fancy and engaging
