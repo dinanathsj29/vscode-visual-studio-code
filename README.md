@@ -347,6 +347,24 @@ VS Code comes with a simple and intuitive layout that maximizes the space provid
   </figure>
 </p>
 
+3.2.1. Activity Bar
+---------------------
+
+- Located on the far top left-hand side
+- Helps/Lets switch between different **views/activity and shows additional context-specific indicators** like `search files, files folder explorer, Git`, etc.(Clicking on different icons opens respective views as given below): 
+  - Search (`COMMAND + SHIFT + F`)
+  - Explore (`COMMAND + SHIFT + E`)
+  - Source Control (`CONTROL + SHIFT + G`)
+  - Debug and Run (`COMMAND + SHIFT + D`)
+  - Extensions (`COMMAND + SHIFT + X`)
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/3.2.1-vscode-activity-bar.png" alt="VScode User Interface Overview - Activity Bar" title="VScode User Interface Overview - Activity Bar" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 3.2.1 - VScode User Interface Overview - Activity Bar </figcaption>
+  </figure>
+</p>
+
 3.3. Basic Operations in VSCode Visual Studio Code
 ---------------------
 
