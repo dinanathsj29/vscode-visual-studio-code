@@ -683,10 +683,30 @@ Here are some of the important and widely used actions with shortcut key:
 
 Themes
 ---------------------
+
+- `COMMAND + P >Theme`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/9.1-vscode-command-palette-theme.png" alt="VSCode - Command Palette - Theme" title="VSCode - Command Palette - Theme" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 9.1 - VSCode - Command Palette - Theme </figcaption>
+  </figure>
+</p>
+
+Color Themes
+---------------------
+
 - `COMMAND + P >Theme` -> Color Theme
 - `COMMAND + SHIFT + P` -> `>Theme` -> Color Theme
 - `COMMAND + K + T` or  `(COMMAND + K) ((COMMAND + T)`-> Color Theme` 
 - **From Menu Bar**: `Code Menu -> Preferences -> Color Theme`
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/9.2-vscode-command-palette-color-theme.png" alt="VSCode - Command Palette - Color Theme" title="VSCode - Command Palette - Color Theme" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 9.2 - VSCode - Command Palette - Color Theme </figcaption>
+  </figure>
+</p>
 
 Icon Themes
 ---------------------
@@ -696,6 +716,20 @@ Icon Themes
 > `Seti (Visual Studio Theme)` is default and looks awesome
 
 > Choose `Install Additional File Icon Theme` to install new customized icon theme named `Material Icon Theme`, it makes editor and icon more fancy and engaging
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/9.3-vscode-command-palette-icon-theme-seti-default.png" alt="VSCode - Command Palette - Icon Theme - Seti Default" title="VSCode - Command Palette - Icon Theme - Seti Default" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 9.3 - VSCode - Command Palette - Icon Theme - Seti Default </figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="_images-vscode-visual-studio-code/9.4-vscode-command-palette-icon-theme-minimal.png" alt="VSCode - Command Palette - Icon Theme - Minimal" title="VSCode - Command Palette - Icon Theme - Minimal" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image 9.4 - VSCode - Command Palette - Icon Theme - Minimal </figcaption>
+  </figure>
+</p>
 
 10 Favorite and Popular Extensions
 =====================
@@ -723,5 +757,3 @@ Icon Themes
 > **Reference**: Visual Studio Code -> Welcome Screen
 
 > **Reference**: Visual Studio Code -> Help Menu
-
-
